@@ -4,9 +4,9 @@ body {
   color: gray;
   text-align: center;
 }
-img {
-  width: 390px;
-  height: 510px;
+#mainimg {
+  width: 100%;
+  height: 100%;
 }
 
 .thin-border {
