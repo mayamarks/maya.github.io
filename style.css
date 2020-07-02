@@ -1,0 +1,45 @@
+body {
+  font-family: Nunito, monospace;
+  font-size: x-large;
+  color: gray;
+  text-align: center;
+}
+img {
+  width: 390px;
+  height: 510px;
+}
+
+.thin-border {
+  border-color: blanchedalmond;
+  border-width: 1.5px;
+  border-style: solid;
+  border-radius: 95%;
+}
+.thick-border {
+  border-color: rgb(233, 158, 45);
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.colored-background {
+  background-color: silver;
+}
+.button-style {
+  border-color: darkslategray;
+  color: darkslategray;
+  width: 30vw;
+  background-color: blanchedalmond;
+}
+#red_btn {
+  background-color: red;
+  width: 20vw;
+  shape-rendering: auto;
+}
+#blue_btn {
+  background-color: royalblue;
+  width: 20vw;
+}
+#white_btn {
+  background-color: seashell;
+  width: 20vw;
+}
