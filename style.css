@@ -11,6 +11,16 @@ body {
 #bar {
   background-color: blanchedalmond;
 }
+#bartext {
+  display: flex;
+  justify-content: flex-start;
+}
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  border: 1px solid #b1a856;
+}
 .thin-border {
   border-color: blanchedalmond;
   border-width: 1.5px;
