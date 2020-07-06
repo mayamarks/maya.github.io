@@ -19,6 +19,7 @@ html {
 #barname {
   display: flex;
   justify-content: flex-start;
+  align-content: center;
 }
 #sticky {
   background-color: blanchedalmond;
