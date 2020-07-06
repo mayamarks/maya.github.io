@@ -19,7 +19,6 @@ html {
 #barname {
   display: flex;
   justify-content: flex-start;
-  align-content: center;
 }
 #sticky {
   background-color: blanchedalmond;
@@ -43,7 +42,6 @@ html {
 }
 
 .fa {
-  padding: 20px;
   font-size: 30px;
   width: 65px;
   height: 65px;
@@ -56,10 +54,19 @@ html {
 .fa-linkedin {
   background: #007bb5;
   color: white;
+  padding: 20px;
 }
 .fa-instagram {
   background: #125688;
   color: white;
+  padding: 20px;
+}
+.fa-envelope {
+  background: #0d4064;
+  color: white;
+  padding: 20px;
+  padding-left: 17px;
+  padding-top: 17px;
 }
 .thin-border {
   border-color: blanchedalmond;
