@@ -28,6 +28,9 @@ html {
   border: 1.1px solid #b1a856;
   text-shadow: -0.1px 0 dimgrey, 0 0.2px dimgrey, 0.4px 0 dimgrey,
     0 -0.6px rgb(148, 123, 76);
+  font-family: "Montserrat Subrayada", sans-serif;
+
+  font-family: "Raleway", sans-serif;
 }
 
 #cardstyle {
